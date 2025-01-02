@@ -3,7 +3,8 @@
 This project is a Currency Converter Application built with React.js, designed to provide real-time currency conversions using up-to-date exchange rates. The app is intuitive and user-friendly, catering to anyone needing quick and accurate currency conversions.
 
 
-![Screenshot (515)](https://github.com/user-attachments/assets/daaa0bc3-043b-4ed5-95ad-b3df5502ddd2)
+![Screenshot (535)](https://github.com/user-attachments/assets/21fc8097-5fee-4b77-b611-dfc390686535)
+
 
 
 ## Key Features
